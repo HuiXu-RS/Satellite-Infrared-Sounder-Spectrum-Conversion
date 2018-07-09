@@ -1,2 +1,2 @@
 # Satellite-Infrared-Sounder-Spectrum-Conversion
-The spectrum conversion between IASI, CrIS, and AIRS. (Will be uploaded soon)
+The spectrum conversion between IASI, CrIS, and AIRS.
